@@ -1,4 +1,4 @@
-# Hola, soy Nicolas Lora 👋
+tu p# Hola, soy Nicolas Lora 👋
 
 ## Sobre mí
 * 👨‍💻 Soy responsable de integración de servicios informáticos y soporte técnico, especializado en el desarrollo de soluciones empresariales y administración de infraestructura tecnológica.
@@ -31,3 +31,20 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+## 📂 Proyectos Destacados
+
+### 🛠️ Afosys.pe
+* **Descripción:** Sistema de gestión empresarial integral diseñado para la optimización de procesos operativos y comerciales.
+* **Tecnologías:** C#, .NET 7.0, SQL Server, Bootstrap y AdminLTE.
+* **Enfoque técnico:** Diseño de interfaces administrativas intuitivas y consumo de servicios seguros.
+
+### 🌐 SystemBase Perú (app.systembaseperu.com)
+* **Descripción:** Plataforma web empresarial orientada al control, administración e integración de servicios informáticos.
+* **Tecnologías:** C#, .NET 10.0, SQL Server y Amazon Web Services (AWS).
+* **Enfoque técnico:** Implementación de lógica de negocio escalable y despliegue en entornos cloud eficientes.
+
+## 💼 Servicios y Soluciones
+* ⚙️ **Desarrollo de Sistemas a Medida:** Construcción de plataformas web corporativas utilizando arquitecturas limpias y backend robusto en .NET 10.
+* 🖥️ **Infraestructura y Conectividad:** Configuración y administración de servidores (Windows/Ubuntu Server), entornos virtuales con VMware y routing avanzado con MikroTik (VLANs, VPNs y seguridad perimetral).
+* ☁️ **Despliegue e Integración Cloud:** Implementación y migración de soluciones locales hacia la nube utilizando Amazon Web Services (AWS).
