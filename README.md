@@ -1,4 +1,4 @@
-tu p# Hola, soy Nicolas Lora 👋
+Hola, soy Nicolas Lora 👋
 
 ## Sobre mí
 * 👨‍💻 Soy responsable de integración de servicios informáticos y soporte técnico, especializado en el desarrollo de soluciones empresariales y administración de infraestructura tecnológica.
