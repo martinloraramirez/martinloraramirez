@@ -2,7 +2,7 @@
 
 ## Sobre mí
 * 💼 **Especialidad:** Responsable de servicios informáticos y Soporte Técnico.
-* 💻 **Desarrollo:** Creación de sistemas de gestión (como Porcisys y Afosys) utilizando C#, .NET 10.0, SQL Server y AWS.
+* 💻 **Desarrollo:** Creación de sistemas de gestión (como Afosys.com y App.Systembaseperu.com) utilizando C#, .NET 10.0, SQL Server y AWS.
 * 🔧 **Infraestructura:** Experiencia en administración de servidores, redes, routers MikroTik, creación de VLANs y Active Directory.
 
 ## Contacto
