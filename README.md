@@ -7,7 +7,7 @@
 * 🚀 **Enfoque Profesional:** Me enfoco en crear soluciones tecnológicas integrales, combinando desarrollo de software escalable con infraestructura robusta y segura para optimizar procesos y operaciones empresariales.
 
 ## Contacto
-* 📧 Email: martin9817lr@hotmail.com
+* 📧 Email: nlora@itcloud.pe
 * 📱 Teléfono: +51 912 767 005
 
 ## 🚀 Tecnologías y Herramientas
