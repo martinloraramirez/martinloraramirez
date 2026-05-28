@@ -2,8 +2,9 @@
 
 ## Sobre mí
 * 💼 **Especialidad:** Responsable de servicios informáticos y Soporte Técnico.
-* 💻 **Desarrollo:** Creación de sistemas de gestión (como Afosys.com y App.Systembaseperu.com) utilizando C#, .NET 10.0, SQL Server y AWS.
+* 💻 **Desarrollo:** Creación de sistemas de gestión (como Afosys.pe y app.systembaseperu.com) utilizando C#, .NET 10.0, SQL Server y AWS.
 * 🔧 **Infraestructura:** Experiencia en administración de servidores, redes, routers MikroTik, creación de VLANs y Active Directory.
+* 🚀 **Enfoque Freelance:** Soluciones tecnológicas integrales, uniendo el desarrollo de software escalable con una infraestructura de red robusta y segura para optimizar operaciones comerciales.
 
 ## Contacto
 * 📧 Email: martin9817lr@hotmail.com
