@@ -1,10 +1,10 @@
 # Hola, soy Nicolas Lora 👋
 
 ## Sobre mí
-* 💼 **Especialidad:** Responsable de servicios informáticos y Soporte Técnico.
-* 💻 **Desarrollo:** Creación de sistemas de gestión (como Afosys.pe y app.systembaseperu.com) utilizando C#, .NET 10.0, SQL Server y AWS.
-* 🔧 **Infraestructura:** Experiencia en administración de servidores, redes, routers MikroTik, creación de VLANs y Active Directory.
-* 🚀 **Enfoque Freelance:** Soluciones tecnológicas integrales, uniendo el desarrollo de software escalable con una infraestructura de red robusta y segura para optimizar operaciones comerciales.
+* 👨‍💻 Soy responsable de integración de servicios informáticos y soporte técnico, especializado en el desarrollo de soluciones empresariales y administración de infraestructura tecnológica.
+* 💻 **Desarrollo de Software:** Desarrollo sistemas de gestión y plataformas empresariales como Afosys.pe y app.systembaseperu.com, utilizando tecnologías como C#, .NET 10, SQL Server y servicios cloud de Amazon Web Services.
+* 🔧 **Infraestructura y Redes:** Cuento con experiencia en administración de servidores, configuración de redes corporativas, equipos MikroTik, implementación de VLANs y gestión y creacion de entornos Microsoft Active Directory, priorizando seguridad, rendimiento y continuidad operativa.
+* 🚀 **Enfoque Profesional:** Me enfoco en crear soluciones tecnológicas integrales, combinando desarrollo de software escalable con infraestructura robusta y segura para optimizar procesos y operaciones empresariales.
 
 ## Contacto
 * 📧 Email: martin9817lr@hotmail.com
@@ -12,8 +12,21 @@
 
 ## 🚀 Tecnologías y Herramientas
 
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_10.0-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-24282B.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio_2022-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Windows Server](https://img.shields.io/badge/Windows_Server_2016-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![AdminLTE](https://img.shields.io/badge/AdminLTE-3C8DBC?style=for-the-badge&logo=adminlte&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
